@@ -1,0 +1,15 @@
+rodovia,km_inicio,km_fim,tipo_guincho,base,responsavel,email,telefone
+SP-348,0,60,leve,Base Operacional Jundiaí,Equipe Guincho Leve Jundiaí,guincho.leve.jundiai@exemplo.com.br,(11) 4000-0101
+SP-348,0,60,pesado,Base Operacional Jundiaí,Equipe Guincho Pesado Jundiaí,guincho.pesado.jundiai@exemplo.com.br,(11) 4000-0102
+SP-348,60,175,leve,Base Operacional Campinas,Equipe Guincho Leve Campinas,guincho.leve.campinas@exemplo.com.br,(19) 4000-0201
+SP-348,60,175,pesado,Base Operacional Campinas,Equipe Guincho Pesado Campinas,guincho.pesado.campinas@exemplo.com.br,(19) 4000-0202
+SP-330,0,100,leve,Base Operacional Valinhos,Equipe Guincho Leve Valinhos,guincho.leve.valinhos@exemplo.com.br,(19) 4000-0301
+SP-330,0,100,pesado,Base Operacional Valinhos,Equipe Guincho Pesado Valinhos,guincho.pesado.valinhos@exemplo.com.br,(19) 4000-0302
+SP-270,0,90,leve,Base Operacional Cotia,Equipe Guincho Leve Cotia,guincho.leve.cotia@exemplo.com.br,(11) 4000-0401
+SP-270,0,90,pesado,Base Operacional Cotia,Equipe Guincho Pesado Cotia,guincho.pesado.cotia@exemplo.com.br,(11) 4000-0402
+SP-270,90,180,leve,Base Operacional Sorocaba,Equipe Guincho Leve Sorocaba,guincho.leve.sorocaba@exemplo.com.br,(15) 4000-0501
+SP-270,90,180,pesado,Base Operacional Sorocaba,Equipe Guincho Pesado Sorocaba,guincho.pesado.sorocaba@exemplo.com.br,(15) 4000-0502
+RJ-124,0,60,leve,Base Operacional São Pedro da Aldeia,Equipe Guincho Leve Região dos Lagos,guincho.leve.lagos@exemplo.com.br,(22) 4000-0601
+RJ-124,0,60,pesado,Base Operacional São Pedro da Aldeia,Equipe Guincho Pesado Região dos Lagos,guincho.pesado.lagos@exemplo.com.br,(22) 4000-0602
+*,,,triagem,CCO,Mesa de Triagem do CCO,triagem.cco@exemplo.com.br,(11) 4000-0001
+*,,,aph,CCO,Supervisão de Atendimento Pré-Hospitalar,supervisao.aph@exemplo.com.br,(11) 4000-0002
